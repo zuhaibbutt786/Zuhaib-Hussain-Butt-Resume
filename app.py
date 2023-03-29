@@ -20,10 +20,10 @@ Data Analyst,Machine Learning Engineer assisting enterprises by supporting data-
 """
 EMAIL = "Zuhaibbutt3@gmail.com"
 SOCIAL_MEDIA = {
-    "Kaggle": "https://www.kaggle.com/zuhaibbutt",
-    "LinkedIn": "https://www.linkedin.com/in/zuhaib-hussain-butt-6628141a4/",
-    "GitHub": "https://github.com/zuhaibbutt786",
-    "Facebook": "https://www.facebook.com/zuhaib.butt.50/",
+    "📉 Kaggle": "https://www.kaggle.com/zuhaibbutt",
+    "💻 LinkedIn": "https://www.linkedin.com/in/zuhaib-hussain-butt-6628141a4/",
+    "📊 GitHub": "https://github.com/zuhaibbutt786",
+    "😎 Facebook": "https://www.facebook.com/zuhaib.butt.50/",
 }
 PROJECTS = {
     "🏆 Covid case study using folium": "https://www.kaggle.com/code/zuhaibbutt/covid-casestudy-using-folium",
