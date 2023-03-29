@@ -122,17 +122,17 @@ st.write(
 """
 )
 
-# --- edu 3
+# --- Edu 3
 st.write('\n')
 st.write("📚", "**University of Dundee - Scotland, United Kingdom | Exchange Program: Web Development**")
 st.write("10/2020 - 11/2020")
-"""
 
-# --- edu 4
+
+# --- Edu 4
 st.write('\n')
-st.write("📚", "**St. Petersburg State Transport University - Russia | Exchange Program: Language & Multicultural Exchange **")
+st.write("📚", "**St Petersburg State Transport University, Russia | Exchange Program: Language & Multicultural Exchange**")
 st.write("11/2020 - 12/2020")
-"""
+
 
 
 
