@@ -92,6 +92,53 @@ st.write(
 )
 
 
+
+# --- Education ---
+st.write('\n')
+st.subheader("Education")
+st.write("---")
+
+# --- Edu 1
+st.write("📚", "**University of Engineering & Technology Lahore | MS Computer Science**")
+st.write("08/2022 -present ")
+st.write(
+    """
+- ► Major Computer Science with minor Data science Courses
+- ► 4+ paper submitted in IEEE
+- ► Data Science Domain
+"""
+)
+
+# --- Edu 2
+st.write('\n')
+st.write("📚", "**GIFT University Gujranwala | BS Software Engineering**")
+st.write("08/2017 - 08/2021")
+st.write(
+    """
+- ► Major Software Engineering With elective subjects of Machine learning and AI 
+- ► Final year project based on IOT
+- ► Member of YCPS,SSG,GSID and GGT
+- ► Elected to Vice president for young computer professional society 2020 to 2021
+"""
+)
+
+# --- edu 3
+st.write('\n')
+st.write("📚", "**University of Dundee - Scotland, United Kingdom | Exchange Program: Web Development**")
+st.write("10/2020 - 11/2020")
+"""
+
+# --- edu 4
+st.write('\n')
+st.write("📚", "**St. Petersburg State Transport University - Russia | Exchange Program: Language & Multicultural Exchange **")
+st.write("11/2020 - 12/2020")
+"""
+
+
+
+
+
+
 # --- WORK HISTORY ---
 st.write('\n')
 st.subheader("Work History")
