@@ -24,6 +24,7 @@ SOCIAL_MEDIA = {
     "💻 LinkedIn": "https://www.linkedin.com/in/zuhaib-hussain-butt-6628141a4/",
     "📊 GitHub": "https://github.com/zuhaibbutt786",
     "😎 Facebook": "https://www.facebook.com/zuhaib.butt.50/",
+    "📞 Whatsapp": "https://wa.link/nt3x5e",
 }
 PROJECTS = {
     "🏆 Covid case study using folium": "https://www.kaggle.com/code/zuhaibbutt/covid-casestudy-using-folium",
@@ -191,3 +192,13 @@ st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
+
+    
+    
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)    
