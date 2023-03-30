@@ -70,10 +70,10 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Experience & Qualification")
 st.write(
     """
-- ✔️ 2 Years experince extracting actionable insights from data
+- ✔️ 2 Years experience extracting actionable insights from data
 - ✔️ Strong hands on experience and knowledge in Python,R, Matlab and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
