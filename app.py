@@ -13,7 +13,7 @@ profile_pic = current_dir / "assets" / "zuhaib.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Zuhaib Hussain Butt"
-PAGE_ICON = ":wave:"
+PAGE_ICON = ":Face:"
 NAME = "Zuhaib Hussain Butt"
 DESCRIPTION = """
 Data Analyst,Machine Learning Engineer assisting enterprises by supporting data-driven decision-making.
