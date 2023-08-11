@@ -137,10 +137,6 @@ st.write("11/2020 - 12/2020")
 
 
 
-
-
-
-
 # --- WORK HISTORY ---
 st.write('\n')
 st.subheader("Work History")
@@ -185,6 +181,46 @@ st.write(
 
 """
 )
+
+
+# ... (previous code)
+
+# --- SERVICES ---
+st.write('\n')
+st.subheader("Services")
+st.write("---")
+
+# Define a dictionary of services and their descriptions
+SERVICES = {
+    "Dashboard Creation": "Creating interactive and insightful dashboards using visualization tools like PowerBI and Tableau.",
+    "Web Apps": "Developing web applications using various technologies like Flask, Django, and HTML/CSS.",
+    "Mobile Apps": "Building mobile applications for Android and iOS platforms using frameworks like React Native.",
+    "ML (Supervised & Unsupervised)": "Implementing machine learning models for both supervised and unsupervised tasks.",
+    "Computer Vision": "Developing computer vision applications for tasks like image recognition and object detection.",
+    "NLP (BERT, XLNet)": "Utilizing advanced natural language processing models like BERT and XLNet for text analysis.",
+    "Data Science": "Providing end-to-end data science solutions, including feature engineering, preprocessing, and model tuning.",
+    "Big Data": "Working with big data technologies like Hadoop, Hive, Pig, Sqoop, Cassandra, Flume, and Spark."
+}
+
+# Loop through the services and create a section for each with an animated graph
+for service, description in SERVICES.items():
+    st.write(f"**{service}**")
+    st.write(description)
+    
+    # Create an animated graph (using a placeholder example here)
+    import matplotlib.pyplot as plt
+    import numpy as np
+    
+    x = np.linspace(0, 10, 100)
+    y = np.sin(x)
+    
+    fig, ax = plt.subplots()
+    ax.plot(x, y)
+    st.pyplot(fig)
+    
+    st.write("---")
+
+
 
 
 # --- Projects & Accomplishments ---
