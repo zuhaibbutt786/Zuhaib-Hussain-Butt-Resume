@@ -2,7 +2,8 @@ from pathlib import Path
 
 import streamlit as st
 from PIL import Image
-
+import matplotlib.pyplot as plt
+import numpy as np
 
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
@@ -208,8 +209,7 @@ for service, description in SERVICES.items():
     st.write(description)
     
     # Create an animated graph (using a placeholder example here)
-    import matplotlib.pyplot as plt
-    import numpy as np
+
     
     x = np.linspace(0, 10, 100)
     y = np.sin(x)
