@@ -2,7 +2,7 @@ from pathlib import Path
 
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import numpy as np
 
 # --- PATH SETTINGS ---
