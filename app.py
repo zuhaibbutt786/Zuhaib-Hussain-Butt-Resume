@@ -31,6 +31,12 @@ PROJECTS = {
     "🏆 Covid case study using folium": "https://www.kaggle.com/code/zuhaibbutt/covid-casestudy-using-folium",
     "🏆 Roman Urdu predition using machine learning models": "https://www.kaggle.com/code/zuhaibbutt/roman-urdu-prediction-with-test-value",
     "🏆 Dashboard on Tableau ":"https://public.tableau.com/app/profile/zuhaib3028/viz/lab12_16630698501100/Story1",
+    "🏆 Common Disease Prediction using Machine Learning and NLP with Framework Flask" : "https://github.com/zuhaibbutt786/Ai-medical-chatbot", 
+    "🏆 Simple Automatic-web-scraper":"https://github.com/zuhaibbutt786/automatic-web-scraper",
+    "🏆 TelecomOptiXcel ":"https://github.com/zuhaibbutt786/telecom-sheets-app",
+    "🏆 Laptop-price-prediction-with-streamlit ":"https://github.com/zuhaibbutt786/Laptop-price-prediction-with-streamlit",
+    "🏆 Traffic-sign-classification-and-detection":"https://github.com/zuhaibbutt786/Traffic-sign-classification-and-detection",
+   
 }
 
 
